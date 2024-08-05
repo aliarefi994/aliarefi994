@@ -1,7 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ali.arefi994&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
-<!--
-**aliarefi994/aliarefi994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ali.arefi994&theme=meta-light&hide_border=true&sideLabels=5453EB&background=13%2CCAEBCA%2CCEE5EB&stroke=0E2514&ring=4765A0&fire=4867A2&currStreakNum=2A14EB&sideNums=2A14EB&currStreakLabel=2A14EB&dates=075103&border=EB5454&excludeDaysLabel=EB5454)](https://git.io/streak-stats)**aliarefi994/aliarefi994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
