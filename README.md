@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ali.arefi994&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 <!--
 **aliarefi994/aliarefi994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
